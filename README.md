@@ -6,6 +6,8 @@ Trigger: Records the duration of the stress. Operating hours counter.
 
 Furthermore, limits (warning, error) can be defined for each component used
 
+
+
 Get Started
 1.	Start “PredictiveMaintenance.lvproj” project. 
     You find this in:  ..Sources\PredictiveMaintenanceModule\PredictiveMaintenance
