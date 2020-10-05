@@ -1,8 +1,8 @@
 # PM_Module
 In order to carry out predictive maintenance one should know how the components used are stressed. In this module two types of counters are used.
 
-Events: A simple counter
-Trigger: Records the duration of the stress. Operating hours counter.
+- Events: A simple counter
+- Trigger: Records the duration of the stress. Operating hours counter.
 
 Furthermore, limits (warning, error) can be defined for each component used
 
